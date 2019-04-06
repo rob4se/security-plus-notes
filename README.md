@@ -34,7 +34,7 @@ A protocol analyzer will capture packets and timestamp each one. This tells you 
 - A replay attack is a network attack in which data packets are repeated or delayed by an outside attacker. 
 
 - Signatures are the patterns that an **IDS** looks for when detecting attacks. 
-- Zero Day Attack: A completely unknown glitch found in the software that neither the manufacturer or client knew existed. 
+- Zero Day Attack: A completely unknown exploit found in the software that neither the manufacturer or client knew existed. This is often performed by a black hat attacker. The best way to prevent this attack is to keep updating your system and patching when needed.  Also subscribing to other IT/Cybersecurity news outlets will help you stay up to date on news relating to Zero Day incidents.
 
 ## Authentication
 - Radius
